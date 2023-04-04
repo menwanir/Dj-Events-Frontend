@@ -1,6 +1,7 @@
 import React from "react";
 import styles from "../styles/Header.module.css";
 import Link from "next/link";
+import Search from "./Search";
 
 export default function Header() {
   return (
@@ -9,6 +10,7 @@ export default function Header() {
         <Link href="/">DJ events</Link>
       </div>
 
+    <Search />
     <nav>
         <ul>
             <li>
@@ -16,6 +18,11 @@ export default function Header() {
                     Events
                 </Link>
             </li>
+            <li>
+            <Link href='/events/add'>
+              Add Event
+            </Link>
+          </li>
         </ul>
     </nav>
 

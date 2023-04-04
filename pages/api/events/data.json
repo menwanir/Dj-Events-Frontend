@@ -1,0 +1,80 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "name": "Throwback Thursdays with DJ Manny Duke",
+      "slug": "throwback-thursdays-with-dj-manny-duke",
+      "venue": "Horizon Club",
+      "address": "919 3rd Ave New York, New York(NY), 10022",
+      "performers": "DJ Manny Duke",
+      "date": "June 09, 2021",
+      "time": "10:00 PM EST",
+      "description": "Featuring deep cuts, party anthems and remixes nostalgic songs from two of the best decades of music with the very best music from the 90's and 2000's",
+      "image": "/images/sample/event1.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Boom Dance Festival Experience",
+      "slug": "boom-dance-festival-experience",
+      "venue": "Blackjacks",
+      "address": "966 Lexington Ave New York, New York(NY), 10021",
+      "performers": "DJ LUCK & MC NEAT, NICKY BLACKMARKET, DJ NICKY BLACKMARKET, RATPACK",
+      "date": "June 2, 2021",
+      "time": "8:00 PM EST",
+      "description": "It's looking more and more like we will be seeing events return in the summer! To celebrate this we are arranging a festival experience to say good bye to lock down! We will also be celebrating the fact Zoom Dance is one year old!",
+      "image": "/images/sample/event2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Encore Night Boat Party",
+      "slug": "encore-night-boat-party",
+      "venue": "Encore",
+      "address": "675 Water St New York, New York(NY), 10002",
+      "performers": "Bad Boy Bill",
+      "date": "June 11, 2021",
+      "time": "7:00 PM EST",
+      "description": "Who is ready to party? I mean in the middle of the water, a boat with good music and drinks. If thats you then you have made it to the right place.",
+      "image": "/images/sample/event3.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Jam Concert Live",
+      "slug": "jam-concert-live",
+      "venue": "Club Ozone",
+      "address": "70 W 115th St New York, New York(NY), 10026",
+      "performers": "DJ RNB",
+      "date": "June 20, 2021",
+      "time": "10:00 PM EST",
+      "description": "The most diverse dj on the east coast, DJ RNB team up once again to bring you the next installment in the high energy, Jam Concert Live series!",
+      "image": "/images/sample/event4.jpg"
+    },
+    {
+      "id": "5",
+      "name": "UnMute Rock Festival",
+      "slug": "unmute-rock-festival",
+      "venue": "Studio 54",
+      "address": "55 La Salle St #12K New York, New York(NY), 10027",
+      "performers": "Big Wednesday, Black Pyre, Calling Apollo",
+      "date": "June 30, 2021",
+      "time": "8:00 PM EST",
+      "description": "With bands from around the UK ready to send the roof into orbit, get ready for the loudest Welsh festival: the inaugural UnMute 2021.",
+      "image": "/images/sample/event5.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Soul Kitchen Party",
+      "slug": "soul-kitchen-party",
+      "venue": "Onyx Club",
+      "address": "60 Gramercy Park N #2 New York, New York(NY), 10010",
+      "performers": "A-Trak, Nightmares on Wax, Rakim, Jay Electronica",
+      "date": "July 2, 2021",
+      "time": "8:00 PM EST",
+      "description": "Dope party which features Hip Hop legends, emerging artists and world-class turntablists",
+      "image": "/images/sample/event6.jpg"
+    }
+  ]
+}
+
+
+
+{"data":[{"id":1,"attributes":{"name":"Throwback Thursdays with DJ Manny Duke","slug":"throwback-thursdays-with-dj-manny-duke","time":"10:00 pm","venue":"Horizon Club","address":"919 3rd Ave New York, New York(NY), 10022","performers":"DJ Manny Duke","description":"Featuring deep cuts, party anthems and remixes nostalgic songs from two of the best decades of music with the very best music from the 90's and 2000's","date":"2023-04-11T18:44:00.000Z","createdAt":"2023-04-01T08:56:45.448Z","updatedAt":"2023-04-03T07:31:10.642Z","publishedAt":"2023-04-01T08:56:46.848Z","image":{"data":{"id":2,"attributes":{"name":"event1.jpg","alternativeText":null,"caption":null,"width":1920,"height":1280,"formats":{"small":{"name":"small_event1.jpg","hash":"small_event1_60735454f5","ext":".jpg","mime":"image/jpeg","path":null,"width":500,"height":333,"size":28.62,"url":"https://res.cloudinary.com/doj2mzvrw/image/upload/v1680330014/small_event1_60735454f5.jpg","provider_metadata":{"public_id":"small_event1_60735454f5","resource_type":"image"}},"thumbnail":{"name":"thumbnail_event1.jpg","hash":"thumbnail_event1_60735454f5","ext":".jpg","mime":"image/jpeg","path":null,"width":234,"height":156,"size":8.77,"url":"https://res.cloudinary.com/doj2mzvrw/image/upload/v1680330014/thumbnail_event1_60735454f5.jpg","provider_metadata":{"public_id":"thumbnail_event1_60735454f5","resource_type":"image"}},"medium":{"name":"medium_event1.jpg","hash":"medium_event1_60735454f5","ext":".jpg","mime":"image/jpeg","path":null,"width":750,"height":500,"size":53.47,"url":"https://res.cloudinary.com/doj2mzvrw/image/upload/v1680330015/medium_event1_60735454f5.jpg","provider_metadata":{"public_id":"medium_event1_60735454f5","resource_type":"image"}},"large":{"name":"large_event1.jpg","hash":"large_event1_60735454f5","ext":".jpg","mime":"image/jpeg","path":null,"width":1000,"height":667,"size":83.06,"url":"https://res.cloudinary.com/doj2mzvrw/image/upload/v1680330015/large_event1_60735454f5.jpg","provider_metadata":{"public_id":"large_event1_60735454f5","resource_type":"image"}}},"hash":"event1_60735454f5","ext":".jpg","mime":"image/jpeg","size":240.29,"url":"https://res.cloudinary.com/doj2mzvrw/image/upload/v1680330015/event1_60735454f5.jpg","previewUrl":null,"provider":"cloudinary","provider_metadata":{"public_id":"event1_60735454f5","resource_type":"image"},"createdAt":"2023-04-01T06:20:15.909Z","updatedAt":"2023-04-01T06:20:15.909Z"}}}}},{"id":2,"attributes":{"name":"Boom Dance Festival Experience","slug":"boom-dance-festival-experience","time":"8:00","venue":"Blackjacks","address":"966 Lexington Ave New York, New York(NY), 10021","performers":"DJ LUCK & MC NEAT, NICKY BLACKMARKET, DJ NICKY BLACKMARKET, RATPACK","description":"It's looking more and more like we will be seeing events return in the summer! To celebrate this we are arranging a festival experience to say good bye to lock down! We will also be celebrating the fact Zoom Dance is one year old!","date":"2023-04-19T18:35:00.000Z","createdAt":"2023-04-01T09:00:58.064Z","updatedAt":"2023-04-01T09:00:59.327Z","publishedAt":"2023-04-01T09:00:59.322Z","image":{"data":{"id":4,"attributes":{"name":"event2.jpg","alternativeText":null,"caption":null,"width":1920,"height":1280,"formats":{"thumbnail":{"name":"thumbnail_event2.jpg","hash":"thumbnail_event2_ae82ca4abb","ext":".jpg","mime":"image/jpeg","path":null,"width":234,"height":156,"size":9.34,"url":"https://res.cloudinary.com/doj2mzvrw/image/upload/v1680339550/thumbnail_event2_ae82ca4abb.jpg","provider_metadata":{"public_id":"thumbnail_event2_ae82ca4abb","resource_type":"image"}},"small":{"name":"small_event2.jpg","hash":"small_event2_ae82ca4abb","ext":".jpg","mime":"image/jpeg","path":null,"width":500,"height":333,"size":31.82,"url":"https://res.cloudinary.com/doj2mzvrw/image/upload/v1680339550/small_event2_ae82ca4abb.jpg","provider_metadata":{"public_id":"small_event2_ae82ca4abb","resource_type":"image"}},"medium":{"name":"medium_event2.jpg","hash":"medium_event2_ae82ca4abb","ext":".jpg","mime":"image/jpeg","path":null,"width":750,"height":500,"size":61.64,"url":"https://res.cloudinary.com/doj2mzvrw/image/upload/v1680339550/medium_event2_ae82ca4abb.jpg","provider_metadata":{"public_id":"medium_event2_ae82ca4abb","resource_type":"image"}},"large":{"name":"large_event2.jpg","hash":"large_event2_ae82ca4abb","ext":".jpg","mime":"image/jpeg","path":null,"width":1000,"height":667,"size":99.63,"url":"https://res.cloudinary.com/doj2mzvrw/image/upload/v1680339551/large_event2_ae82ca4abb.jpg","provider_metadata":{"public_id":"large_event2_ae82ca4abb","resource_type":"image"}}},"hash":"event2_ae82ca4abb","ext":".jpg","mime":"image/jpeg","size":319.63,"url":"https://res.cloudinary.com/doj2mzvrw/image/upload/v1680339551/event2_ae82ca4abb.jpg","previewUrl":null,"provider":"cloudinary","provider_metadata":{"public_id":"event2_ae82ca4abb","resource_type":"image"},"createdAt":"2023-04-01T08:59:11.814Z","updatedAt":"2023-04-01T08:59:11.814Z"}}}}},{"id":3,"attributes":{"name":"Encore Night Boat Party","slug":"encore-night-boat-party","time":"7:000 pm","venue":"Encore","address":"675 Water St New York, New York(NY), 10002","performers":"Bad Boy Bill","description":"Who is ready to party? I mean in the middle of the water, a boat with good music and drinks. If thats you then you have made it to the right place.","date":"2023-04-21T18:32:00.000Z","createdAt":"2023-04-01T09:03:01.507Z","updatedAt":"2023-04-01T09:03:08.383Z","publishedAt":"2023-04-01T09:03:08.380Z","image":{"data":{"id":3,"attributes":{"name":"event3.jpg","alternativeText":null,"caption":null,"width":1920,"height":1280,"formats":{"thumbnail":{"name":"thumbnail_event3.jpg","hash":"thumbnail_event3_9230413293","ext":".jpg","mime":"image/jpeg","path":null,"width":234,"height":156,"size":6.39,"url":"https://res.cloudinary.com/doj2mzvrw/image/upload/v1680339550/thumbnail_event3_9230413293.jpg","provider_metadata":{"public_id":"thumbnail_event3_9230413293","resource_type":"image"}},"small":{"name":"small_event3.jpg","hash":"small_event3_9230413293","ext":".jpg","mime":"image/jpeg","path":null,"width":500,"height":333,"size":21.35,"url":"https://res.cloudinary.com/doj2mzvrw/image/upload/v1680339550/small_event3_9230413293.jpg","provider_metadata":{"public_id":"small_event3_9230413293","resource_type":"image"}},"large":{"name":"large_event3.jpg","hash":"large_event3_9230413293","ext":".jpg","mime":"image/jpeg","path":null,"width":1000,"height":667,"size":71.21,"url":"https://res.cloudinary.com/doj2mzvrw/image/upload/v1680339550/large_event3_9230413293.jpg","provider_metadata":{"public_id":"large_event3_9230413293","resource_type":"image"}},"medium":{"name":"medium_event3.jpg","hash":"medium_event3_9230413293","ext":".jpg","mime":"image/jpeg","path":null,"width":750,"height":500,"size":42.7,"url":"https://res.cloudinary.com/doj2mzvrw/image/upload/v1680339550/medium_event3_9230413293.jpg","provider_metadata":{"public_id":"medium_event3_9230413293","resource_type":"image"}}},"hash":"event3_9230413293","ext":".jpg","mime":"image/jpeg","size":277.61,"url":"https://res.cloudinary.com/doj2mzvrw/image/upload/v1680339551/event3_9230413293.jpg","previewUrl":null,"provider":"cloudinary","provider_metadata":{"public_id":"event3_9230413293","resource_type":"image"},"createdAt":"2023-04-01T08:59:11.474Z","updatedAt":"2023-04-01T08:59:11.474Z"}}}}}],"meta":{"pagination":{"page":1,"pageSize":25,"pageCount":1,"total":3}}}
